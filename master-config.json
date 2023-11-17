@@ -1139,6 +1139,14 @@
         "$.code"
       ]
     },
+  "TripNumber": {
+      "masterName": "TripNumber",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+
     "SanitationType": {
       "masterName": "SanitationType",
       "isStateLevel": true,
