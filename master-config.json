@@ -1139,6 +1139,14 @@
         "$.code"
       ]
     },
+  "TripNumber": {
+      "masterName": "TripNumber",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+
     "SanitationType": {
       "masterName": "SanitationType",
       "isStateLevel": true,
@@ -1268,7 +1276,7 @@
     },
     "VehicleOwner": {
       "masterName": "VehicleOwner",
-      "isStateLevel": false,
+      "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
@@ -1276,14 +1284,14 @@
     "Vendor": {
       "AgencyType": {
         "masterName": "AgencyType",
-        "isStateLevel": false,
+        "isStateLevel": true,
         "uniqueKeys": [
           "$.code"
         ]
       },
       "PaymentPreference": {
         "masterName": "PaymentPreference",
-        "isStateLevel": false,
+        "isStateLevel": true,
         "uniqueKeys": [
           "$.code"
         ]
