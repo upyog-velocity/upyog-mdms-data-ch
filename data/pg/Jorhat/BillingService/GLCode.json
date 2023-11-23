@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg.Jorhat",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.Jorhat"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.Jorhat"
+        }
+    ]
+}

@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.citya",
-      "districtCode": "CITYA",
+      "code": "pg.Goalpara",
+      "districtCode": "Goalpara",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pg.cityb",
-      "districtCode": "CITYB",
+      "code": "pg.Jorhat",
+      "districtCode": "Jorhat",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "pg.cityc",
-      "districtCode": "CITYC",
+      "code": "pg.Nagaon",
+      "districtCode": "Nagaon",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",

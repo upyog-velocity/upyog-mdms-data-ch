@@ -2,26 +2,26 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
+      "code": "pg.Goalpara",
       "name": "City A",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "citya@gmail.com",
+      "emailId": "Goalpara@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
         "name": "City A",
         "localName": null,
-        "districtCode": "CITYA",
+        "districtCode": "Goalpara",
         "districtName": null,
-        "districtTenantCode": "pg.citya",
+        "districtTenantCode": "pg.Goalpara",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -35,7 +35,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.cityb",
+      "code": "pg.Jorhat",
       "name": "City B",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
@@ -45,7 +45,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "cityb@gmail.com",
+      "emailId": "Jorhat@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
@@ -53,9 +53,9 @@
       "city": {
         "name": "City B",
         "localName": null,
-        "districtCode": "CITYB",
+        "districtCode": "Jorhat",
         "districtName": null,
-        "districtTenantCode": "pg.cityb",
+        "districtTenantCode": "pg.Jorhat",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -70,7 +70,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityc",
+      "code": "pg.Nagaon",
       "name": "City C",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -79,7 +79,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "cityc@gmail.com",
+      "emailId": "Nagaon@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
@@ -87,9 +87,9 @@
       "city": {
         "name": "City C",
         "localName": null,
-        "districtCode": "CITYC",
+        "districtCode": "Nagaon",
         "districtName": null,
-        "districtTenantCode": "pg.cityc",
+        "districtTenantCode": "pg.Nagaon",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
