@@ -13,6 +13,9 @@
           "code": "pg.Goalpara"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Jorhat"
         },
         {
@@ -32,6 +35,9 @@
           "code": "pg.Goalpara"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Jorhat"
         },
         {
@@ -49,6 +55,9 @@
           "code": "pg.Goalpara"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Jorhat"
         },
         {
@@ -64,6 +73,9 @@
       "tenants": [
         {
           "code": "pg.Goalpara"
+        },
+        {
+          "code": "pg.citya"
         },
         {
           "code": "pg.Jorhat"
@@ -84,6 +96,9 @@
           "code": "pg.Goalpara"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Jorhat"
         },
         {
@@ -101,6 +116,9 @@
           "code": "pg.Goalpara"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Jorhat"
         },
         {
@@ -116,6 +134,9 @@
       "tenants": [
         {
           "code": "pg.Goalpara"
+        },
+        {
+          "code": "pg.citya"
         },
         {
           "code": "pg.Jorhat"
@@ -140,6 +161,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -152,6 +176,9 @@
       "tenants": [
         {
           "code": "pg.Goalpara"
+        },
+        {
+          "code": "pg.citya"
         },
         {
           "code": "pg.Jorhat"
@@ -169,6 +196,9 @@
       "tenants": [
         {
           "code": "pg.Goalpara"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -181,6 +211,9 @@
       "tenants": [
         {
           "code": "pg.Goalpara"
+        },
+        {
+          "code": "pg.citya"
         },
         {
           "code": "pg.Jorhat"
@@ -204,6 +237,9 @@
           "code": "pg.Jorhat"
         },
         {
+          "code": "pg.citya"
+        },
+        {
           "code": "pg.Nagaon"
         }
       ]
@@ -222,6 +258,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -239,6 +278,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -256,6 +298,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -273,6 +318,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -290,6 +338,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -307,6 +358,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -324,6 +378,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -341,6 +398,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -358,6 +418,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -376,6 +439,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -393,6 +459,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -410,6 +479,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -428,6 +500,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -446,6 +521,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     },
@@ -464,6 +542,9 @@
         },
         {
           "code": "pg.Nagaon"
+        },
+        {
+          "code": "pg.citya"
         }
       ]
     }
