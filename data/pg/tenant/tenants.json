@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.Goalpara",
-      "name": "City A",
-      "description": "City A",
+      "name": "Goalpara",
+      "description": "Goalpara",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
@@ -17,7 +17,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "City A",
+        "name": "Goalpara",
         "localName": null,
         "districtCode": "Goalpara",
         "districtName": null,
@@ -36,7 +36,7 @@
     },
     {
       "code": "pg.Jorhat",
-      "name": "City B",
+      "name": "Jorhat",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -51,7 +51,7 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "City B",
+        "name": "Jorhat",
         "localName": null,
         "districtCode": "Jorhat",
         "districtName": null,
@@ -71,7 +71,7 @@
     },
     {
       "code": "pg.Nagaon",
-      "name": "City C",
+      "name": "Nagaon",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "imageId": null,
