@@ -307,7 +307,7 @@
     {
       "module": "DSS",
       "code": "DSS",
-      "active": false,
+      "active": true,
       "order":6,
       "tenants": [
         {
