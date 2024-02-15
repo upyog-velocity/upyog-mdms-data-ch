@@ -12,7 +12,6 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "propertyIdEnabled": true,
       "emailId": "Goalpara@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
@@ -115,6 +114,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
+      "propertyIdEnabled": true,
       "emailId": "citya@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
