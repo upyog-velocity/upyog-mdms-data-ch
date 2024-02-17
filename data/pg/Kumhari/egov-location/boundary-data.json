@@ -11,12 +11,12 @@
       {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Goalpara",
-        "localname": "Goalpara",
+        "name": "Kumhari",
+        "localname": "Kumhari",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.Goalpara",
+        "code": "pg.Kumhari",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -14375,12 +14375,12 @@
       {
         "id": 1,
         "boundaryNum": 1,
-        "name": "City A",
-        "localname": "City A",
+        "name": "Kumhari",
+        "localname": "Kumhari",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg.Goalpara",
+        "code": "pg.Kumhari",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -14405,12 +14405,12 @@
                   {
                     "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                     "boundaryNum": 1,
-                    "name": "Main Road Abadpura",
-                    "localname": "Main Road Abadpura",
+                    "name": "WARD 1",
+                    "localname": "WARD 1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC476",
+                    "code": "WARD 1",
                     "pincode": [143001],
                     "area": "",
                     "children": []
@@ -14418,12 +14418,12 @@
                   {
                     "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
                     "boundaryNum": 1,
-                    "name": "Gali No,. 2 To Gali No. 6",
-                    "localname": "Gali No,. 2 To Gali No. 6",
+                    "name": "WARD 2",
+                    "localname": "WARD 2",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC477",
+                    "code": "WARD 2",
                     "pincode": [143002],
                     "area": "",
                     "children": []
@@ -14431,12 +14431,12 @@
                   {
                     "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
                     "boundaryNum": 1,
-                    "name": "Preet Nagar",
-                    "localname": "Preet Nagar",
+                    "name": "WARD 3",
+                    "localname": "WARD 3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC478",
+                    "code": "WARD 3",
                     "pincode": [143003],
                     "area": "",
                     "children": []
@@ -14444,12 +14444,12 @@
                   {
                     "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
                     "boundaryNum": 1,
-                    "name": "Rameshwar Colony",
-                    "localname": "Rameshwar Colony",
+                    "name": "WARD 4",
+                    "localname": "WARD 4",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC479",
+                    "code": "WARD 4",
                     "pincode": [143004],
                     "area": "",
                     "children": []
@@ -14457,12 +14457,12 @@
                   {
                     "id": "ffb6237c-7be2-418b-ac78-2c647338c633",
                     "boundaryNum": 1,
-                    "name": "Sh. Guru Ravidass Nagar",
-                    "localname": "Sh. Guru Ravidass Nagar",
+                    "name": "WARD 5",
+                    "localname": "WARD 5",
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "JLC480",
+                    "code": "WARD 5",
                     "pincode": [143005],
                     "area": "",
                     "children": []

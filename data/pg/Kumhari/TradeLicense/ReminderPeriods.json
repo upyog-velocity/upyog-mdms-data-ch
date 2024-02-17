@@ -1,9 +1,9 @@
 {
-    "tenantId": "pg.Goalpara",
+    "tenantId": "pg.Kumhari",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "pg.Goalpara",
+        "tenantId": "pg.Kumhari",
         "reminderInterval": 12345
       },
       {

@@ -5,12 +5,12 @@
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "pg.Goalpara"
+            "cb": "pg.Kumhari"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "pg.Goalpara"
+            "cb": "pg.Kumhari"
         }
     ]
 }
