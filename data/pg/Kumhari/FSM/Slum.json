@@ -6,31 +6,31 @@
             "code": "SL0001",
             "active": true,
             "name": "Kathagada juanga sahi",
-            "locality": "JLC476"
+            "locality": "WARD 1"
         },
         {
             "code": "SL0002",
             "active": true,
             "name": "Kathagada Parbatia Sahi",
-            "locality": "JLC477"
+            "locality": "WARD 2"
         },
         {
             "code": "SL0003",
             "active": true,
             "name": "Gangadhar Sahi",
-            "locality": "JLC478"
+            "locality": "WARD 3"
         },
         {
             "code": "SL0004",
             "active": true,
             "name": "Pandab Nagar",
-            "locality": "JLC479"
+            "locality": "WARD 4"
         },
         {
             "code": "SL0005",
             "active": true,
             "name": "Haridakhandi Harijana sahi",
-            "locality": "JLC480"
+            "locality": "WARD 5"
         },
         {
             "code": "SL0006",
