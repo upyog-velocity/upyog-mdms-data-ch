@@ -3,35 +3,14 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.Goalpara",
-      "districtCode": "Goalpara",
+      "code": "pg.Kumhari",
+      "districtCode": "Kumhari",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
       "workingPopulation": "37.2",
       "literacyRate": "79.2",
       "languagesSpoken": ["PN", "HN", "EN"]
-    },
-    {
-      "code": "pg.Jorhat",
-      "districtCode": "Jorhat",
-      "population": "116449",
-      "malePopulation": "62554",
-      "femalePopultion": "53895",
-      "workingPopulation": "35.01",
-      "literacyRate": "69.46",
-      "languagesSpoken": ["PN", "GR", "HN"]
-    },
-  
-    {
-      "code": "pg.Nagaon",
-      "districtCode": "Nagaon",
-      "population": "17331",
-      "malePopulation": "10521",
-      "femalePopultion": "6810",
-      "workingPopulation": "33.48",
-      "literacyRate": "62.63",
-      "languagesSpoken": ["GR", "PN", "HN"]
     }
   ]
 }
