@@ -1,0 +1,9 @@
+{
+    "tenantId": "pg.Raipur",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

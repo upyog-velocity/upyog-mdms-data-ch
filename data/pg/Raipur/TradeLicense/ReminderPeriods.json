@@ -1,0 +1,18 @@
+{
+    "tenantId": "pg.Raipur",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "pg.Raipur",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityc",
+        "reminderInterval": 12345  
+      }
+    ]
+  }

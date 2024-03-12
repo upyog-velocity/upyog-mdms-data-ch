@@ -11,6 +11,16 @@
       "workingPopulation": "37.2",
       "literacyRate": "79.2",
       "languagesSpoken": ["PN", "HN", "EN"]
+    },
+    {
+      "code": "pg.Raipur",
+      "districtCode": "Raipur",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
     }
   ]
 }
