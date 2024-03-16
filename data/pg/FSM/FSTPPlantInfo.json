@@ -23,6 +23,17 @@
             "PlantOperationalTimings": "10.00am-06.00pm",
             "PlantOperationalCapacityKLD": "100",
             "ULBS": "pg.cityc,pg.cityd,pg.citye"
+        },
+        {
+            "PlantCode": "CTA003",
+            "PlantName": "Kumhari FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Kumhari",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.Kumhari"
         }
     ]
 }
