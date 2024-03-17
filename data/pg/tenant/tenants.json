@@ -70,6 +70,40 @@
       "contactNumber": "001-2345876"
     },
     {
+      "code": "pg.KumhariPanchayat",
+      "name": "Kumhari-Panchayat",
+      "description": "Kumhari-Panchayat",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "propertyIdEnabled": false,
+      "emailId": "KumhariPanchayat@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Kumhari-Panchayat",
+        "localName": null,
+        "districtCode": "Kumhari-Panchayat",
+        "districtName": null,
+        "districtTenantCode": "pg.KumhariPanchayat",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Kumhari Panchayat Municipal Corporation",
+      "contactNumber": "001-2345876"
+    },
+    {
       "code": "pg.citya",
       "name": "City A",
       "description": "City A",

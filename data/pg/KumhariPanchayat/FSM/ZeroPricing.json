@@ -1,0 +1,9 @@
+{
+    "tenantId": "pg.KumhariPanchayat",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg.KumhariPanchayat",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.KumhariPanchayat"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.KumhariPanchayat"
+        }
+    ]
+}
