@@ -71,8 +71,8 @@
     },
     {
       "code": "pg.KumhariPanchayat",
-      "name": "Kumhari-Panchayat",
-      "description": "Kumhari-Panchayat",
+      "name": "KumhariPanchayat",
+      "description": "KumhariPanchayat",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
@@ -86,9 +86,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kumhari-Panchayat",
+        "name": "KumhariPanchayat",
         "localName": null,
-        "districtCode": "Kumhari-Panchayat",
+        "districtCode": "KumhariPanchayat",
         "districtName": null,
         "districtTenantCode": "pg.KumhariPanchayat",
         "regionName": null,
