@@ -214,15 +214,7 @@
             "propertyType": "INSTITUTIONAL",
             "minAmount": "9400",
             "maxAmount": "9600"
-        },
-        {
-            "name": "Jail",
-            "code": "INSTITUTIONAL.JAIL",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "9700",
-            "maxAmount": "1000"
-        },
+        },        
         {
             "name": "Police station",
             "code": "INSTITUTIONAL.POLICE_STATION",
