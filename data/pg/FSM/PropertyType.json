@@ -65,14 +65,6 @@
             "maxAmount": "1800"
         },
         {
-            "name": "Shopping Mall",
-            "code": "COMMERCIAL.SHOPPING_MALL",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "1900",
-            "maxAmount": "2100"
-        },
-        {
             "name": "Community hall",
             "code": "COMMERCIAL.COMMUNITY_HALL",
             "active": true,
@@ -103,23 +95,7 @@
             "propertyType": "COMMERCIAL",
             "minAmount": "3300",
             "maxAmount": "3500"
-        },
-        {
-            "name": "Hostel",
-            "code": "COMMERCIAL.HOSTEL",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "3600",
-            "maxAmount": "3900"
-        },
-        {
-            "name": "Warehouse",
-            "code": "COMMERCIAL.WAREHOUSE",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "400",
-            "maxAmount": "4200"
-        },
+        },        
         {
             "name": "Petrol pumps",
             "code": "COMMERCIAL.PETROL_PUMPS",
@@ -135,23 +111,7 @@
             "propertyType": "COMMERCIAL",
             "minAmount": "4600",
             "maxAmount": "4800"
-        },
-        {
-            "name": "Theme park",
-            "code": "COMMERCIAL.THEME_PARK",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "4900",
-            "maxAmount": "5100"
-        },
-        {
-            "name": "Sports center",
-            "code": "COMMERCIAL.SPORTS_CENTER",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "5200",
-            "maxAmount": "5500"
-        },
+        },                
         {
             "name": "Institutional",
             "code": "INSTITUTIONAL",
@@ -190,15 +150,7 @@
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
             "maxAmount": "6800"
-        },
-        {
-            "name": "Monastery",
-            "code": "INSTITUTIONAL.MONASTERY",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "6900",
-            "maxAmount": "7200"
-        },
+        },       
         {
             "name": "School",
             "code": "INSTITUTIONAL.SCHOOL",
