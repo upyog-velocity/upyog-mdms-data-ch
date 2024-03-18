@@ -41,6 +41,19 @@
                   {
                     "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                     "boundaryNum": 1,
+                    "name": "WARD 1",
+                    "localname": "WARD 1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "WARD 1",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "6e286d0a-d141-49a2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
                     "name": "Ward no 1",
                     "localname": "Ward no 1",
                     "longitude": null,
