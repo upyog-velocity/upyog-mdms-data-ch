@@ -229,13 +229,6 @@
             "active": true,
             "minAmount": "1000",
             "maxAmount": "1500"
-        },
-        {
-            "name": "LIG",
-            "code": "RESIDENTIAL_Area.LIG",
-            "active": true,
-            "minAmount": "1000",
-            "maxAmount": "1500"
         }
     ]
 }
