@@ -222,13 +222,6 @@
             "propertyType": "INSTITUTIONAL",
             "minAmount": "10100",
             "maxAmount": "10500"
-        },
-        {
-            "name": "Residential Area",
-            "code": "RESIDENTIAL_Area",
-            "active": true,
-            "minAmount": "1000",
-            "maxAmount": "1500"
         }
     ]
 }
