@@ -16,7 +16,7 @@
         {
             "code":"slumName",
             "override":true,
-            "active":true
+            "active":false
         },
         {
             "code":"ALLOW_MODIFY",
@@ -31,7 +31,6 @@
                 "address.street",
                 "address.doorNo",
                 "address.landmark",
-                "address.slumName",
                 "pitDetail"
             ],
             "active":true
