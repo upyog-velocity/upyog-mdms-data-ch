@@ -5,7 +5,7 @@
         {
             "name": "Allow Slum",
             "code": "ALLOW_SLUM",
-            "active": true
+            "active": false
         },
         {
             "name": "Allow Additional Charge",
