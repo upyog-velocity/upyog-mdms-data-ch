@@ -52,7 +52,7 @@
                     "label": "Locality",
                     "code": "WARD 2",
                     "pincode": [492001],
-                    "area": "WARD 1",
+                    "area": "Area1",
                     "children": []
                   },
                   {
@@ -65,7 +65,7 @@
                     "label": "Locality",
                     "code": "WARD 3",
                     "pincode": [492003],
-                    "area": "WARD 3",
+                    "area": "Area1",
                     "children": []
                   },
                   {
@@ -78,7 +78,7 @@
                     "label": "Locality",
                     "code": "WARD 4",
                     "pincode": [492003],
-                    "area": "WARD 4",
+                    "area": "Area1",
                     "children": []
                   },
                   {
@@ -601,20 +601,7 @@
                     "area": "Area1",
                     "children": []
                   },
-                  {
-                    "id": "6c66c729-2a97-493f-a9f9-a15185c97bcf",
-                    "boundaryNum": 1,
-                    "name": "WARD 44",
-                    "localname": "WARD 44",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "WARD 44",
-                    "pincode": [492001],
-                    "area": "Area1",
-                    "children": []
-                  },
-                  {
+                   {
                     "id": "9fc4a924-7aed-4fd7-9bef-fa910776797f",
                     "boundaryNum": 1,
                     "name": "WARD 45",
