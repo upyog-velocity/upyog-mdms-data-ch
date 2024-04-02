@@ -28,6 +28,16 @@
             "label": "Zone",
             "code": "JZN1",
             "children": [
+              {
+                "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
+                "boundaryNum": 1,
+                "name": "WARD_32",
+                "localname": "WARD_32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD32",
+                "children": [
                   {
                     "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                     "boundaryNum": 1,
