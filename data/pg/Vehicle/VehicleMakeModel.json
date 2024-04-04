@@ -11,7 +11,7 @@
             "code": "TRACTOR.3000",
             "name": "TRACTOR 3000L",
             "active": true,
-            "make": "TATA",
+            "make": "TRACTOR",
             "capacity": "3000",
             "amount": "1000"
         },
