@@ -9,45 +9,7 @@
             "linkPrefix": "CCF_I_AGREE_THE_DIGITS",
             "link": "CCF_PRIVACY_POLICY",
             "linkId": "PrivacyPolicy",
-            "linkPostfix": "Privacy Policy for Faecal Sludge and Septage Management Application
-
-This Privacy Policy governs your use of the Faecal Sludge and Septage Management Application , specifically designed for the residents of Chhattisgarh to facilitate the desludging process. This Application is hosted under the jurisdiction of the Chhattisgarh government's initiative, supported by UNICEF and implemented on the UPYOG platform.
-
-User Provided Information
-The FSSM Application collects information you provide directly when you login, and use the Application. This includes but is not limited to:
-Your mobile number for login purposes and OTP verification.
-Your residential address for the coordination and provision of the desludging services.
-
-Automatically Collected Information
-In addition to the information you provide, the FSSM Application may automatically collect information about:
-The type of mobile device you use.
-Your mobile operating system.
-The type of mobile internet browsers you use.
-Information on how you interact with the Application.
-
-Use of Information
-The collected information is used to:
- Facilitate the provision of requested services.
- Communicate with you about services, updates, and essential notifications.
-
-Disclosure of Information
-Your information may be disclosed:
-To comply with legal requirements such as subpoenas or court orders.
-To protect the rights and safety of others, as well as our own.
-To our trusted service providers who work on our behalf and have agreed to adhere to our privacy guidelines.
-
-Data Retention Policy
-We retain the information provided by you as long as it is necessary to fulfill the services you requested and for a reasonable time thereafter. Automatically collected information may be stored in an aggregate form.
-
-Security Measures
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. 
-
-Changes
-
-This Privacy Policy may be updated periodically. We will notify you of any significant changes by posting the new policy on this page or through other methods of communication.
-
-Your Consent
-By using the FSSM Application, you consent to our processing of your information as described in this Privacy Policy.",
+            "linkPostfix": "",
             "en_IN": "https://nugp-demo-assets.s3.ap-south-1.amazonaws.com/Policy.html"
           }
         ]
