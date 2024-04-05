@@ -10,7 +10,8 @@
             "link": "CCF_PRIVACY_POLICY",
             "linkId": "PrivacyPolicy",
             "linkPostfix": "",
-            "en_IN": "https://nugp-demo-assets.s3.ap-south-1.amazonaws.com/Policy.html"
+            "en_IN": "https://velocity-upyog-assets.s3.ap-south-1.amazonaws.com/PrivacyPolicy.html"
+            "hi_IN": "https://velocity-upyog-assets.s3.ap-south-1.amazonaws.com/Hindi_Privacy+Policy.html"
           }
         ]
       }
