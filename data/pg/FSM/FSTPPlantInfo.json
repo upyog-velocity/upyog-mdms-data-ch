@@ -34,6 +34,28 @@
             "PlantOperationalTimings": "10.00am-08.00pm",
             "PlantOperationalCapacityKLD": "50",
             "ULBS": "pg.Kumhari"
+        },
+        {
+            "PlantCode": "CTA004",
+            "PlantName": "Kumhari FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "KumhariPanchayat",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.KumhariPanchayat"
+        },
+        {
+            "PlantCode": "CTA005",
+            "PlantName": "Raipur FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Raipur",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.Raipur"
         }
     ]
 }
