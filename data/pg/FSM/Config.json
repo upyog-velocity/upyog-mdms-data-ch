@@ -25,7 +25,6 @@
                 "propertyUsage",
                 "vehicleType",
                 "sanitationtype",
-                "address.pincode",
                 "address.city",
                 "address.locality",
                 "address.street",
