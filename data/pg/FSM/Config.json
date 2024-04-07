@@ -28,6 +28,7 @@
                 "address.city",
                 "address.locality",
                 "address.street",
+                "address.pincode",
                 "address.doorNo",
                 "address.landmark",
                 "pitDetail"
