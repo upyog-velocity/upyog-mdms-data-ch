@@ -36,7 +36,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "WARD 1",
+                    "code": "Ward_1",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -49,7 +49,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 2",
+                    "code": "Ward_2",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -62,7 +62,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 3",
+                    "code": "Ward_3",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -75,7 +75,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 4",
+                    "code": "Ward_4",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -88,7 +88,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 5",
+                    "code": "Ward_5",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -101,7 +101,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 6",
+                    "code": "Ward_6",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -114,7 +114,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Locality",
-                    "code": "Ward 7",
+                    "code": "Ward_7",
                     "pincode": [490042],
                     "area": "Area1",
                     "children": []
@@ -128,7 +128,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 8",
+                    "code": "Ward_8",
                     "area": "Area1",
                     "children": []
                   },
@@ -141,7 +141,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 9",
+                    "code": "Ward_9",
                     "area": "Area1",
                     "children": []
                   },
@@ -154,7 +154,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 10",
+                    "code": "Ward_10",
                     "area": "Area1",
                     "children": []
                   },
@@ -167,7 +167,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 11",
+                    "code": "Ward_11",
                     "area": "Area1",
                     "children": []
                   },
@@ -180,7 +180,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 12",
+                    "code": "Ward_12",
                     "area": "Area1",
                     "children": []
                   },
@@ -193,7 +193,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 13",
+                    "code": "Ward_13",
                     "area": "Area1",
                     "children": []
                   },
@@ -206,7 +206,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 14",
+                    "code": "Ward_14",
                     "area": "Area1",
                     "children": []
                   },
@@ -219,7 +219,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 15",
+                    "code": "Ward_15",
                     "area": "Area1",
                     "children": []
                   },
@@ -232,7 +232,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 16",
+                    "code": "Ward_16",
                     "area": "Area1",
                     "children": []
                   },
@@ -245,7 +245,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 17",
+                    "code": "Ward_17",
                     "area": "Area1",
                     "children": []
                   },
@@ -258,7 +258,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 18",
+                    "code": "Ward_18",
                     "area": "Area1",
                     "children": []
                   },
@@ -271,7 +271,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 19",
+                    "code": "Ward_19",
                     "area": "Area1",
                     "children": []
                   },
@@ -284,7 +284,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 20",
+                    "code": "Ward_20",
                     "area": "Area1",
                     "children": []
                   },
@@ -297,7 +297,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 21",
+                    "code": "Ward_21",
                     "area": "Area1",
                     "children": []
                   },
@@ -310,7 +310,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 22",
+                    "code": "Ward_22",
                     "area": "Area1",
                     "children": []
                   },
@@ -323,7 +323,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 23",
+                    "code": "Ward_23",
                     "area": "Area1",
                     "children": []
                   },
@@ -336,7 +336,7 @@
                     "latitude": null,
                     "label": "Locality",
                     "pincode": [490042],
-                    "code": "Ward 24",
+                    "code": "Ward_24",
                     "area": "Area1",
                     "children": []
                   }   
