@@ -339,7 +339,98 @@
                 "code": "Ward 24",
                 "area": "Area1",
                 "children": []
-              }
+              },
+               {
+                    "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
+                    "boundaryNum": 1,
+                    "name": "Surjidhi",
+                    "localname": "Surjidhi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Surjidhi",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
+                    "boundaryNum": 1,
+                    "name": "Dhaba",
+                    "localname": "Dhaba",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Dhaba",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
+                    "boundaryNum": 1,
+                    "name": "kapsada",
+                    "localname": "kapsada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "kapsada",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "2d88d556-3a4b-462b-b17d-bbf65b2f21a4",
+                    "boundaryNum": 1,
+                    "name": "Murra",
+                    "localname": "Murra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Murra",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "ffb6237c-7be2-418b-ac78-2c647338c633",
+                    "boundaryNum": 1,
+                    "name": "Panchdevri",
+                    "localname": "Panchdevri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Panchdevri",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "c1b4fcad-b46f-4629-a041-728608551868",
+                    "boundaryNum": 1,
+                    "name": "Sankra",
+                    "localname": "Sankra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Sankra",
+                    "pincode": [490042],
+                    "area": "Area1",
+                    "children": []
+                  },
+                  {
+                    "id": "6395f5bd-eb33-4d0c-a9ef-fb08a0a73096",
+                    "boundaryNum": 1,
+                    "name": "Khapri",
+                    "localname": "Khapri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "Khapri",
+                    "pincode": [491226],
+                    "area": "Area1",
+                    "children": []
+                  }
             ]
           }
         ]
