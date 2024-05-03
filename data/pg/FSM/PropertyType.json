@@ -33,12 +33,36 @@
             "minAmount": "700",
             "maxAmount": "900"
         },
+ 	{
+            "name": "Government Houses",
+            "code": "RESIDENTIAL.GOVT_HOUSES",
+            "active": true,
+            "propertyType": "RESIDENTIAL",
+            "minAmount": "700",
+            "maxAmount": "900"
+        },
+	 {
+            "name": "Houses for poor",
+            "code": "RESIDENTIAL.HOUSES_FOR_POOR",
+            "active": true,
+            "propertyType": "RESIDENTIAL",
+            "minAmount": "700",
+            "maxAmount": "900"
+        },
         {
             "name": "Commercial",
             "code": "COMMERCIAL",
             "active": true,
             "minAmount": "1000",
             "maxAmount": "5000"
+        },
+	{
+            "name": "Community/Public Toilets",
+            "code": "COMMERCIAL.COMMUNITY_PUBLIC_TOILETS",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
         },
         {
             "name": "Hotel",
@@ -151,9 +175,49 @@
             "minAmount": "1000",
             "maxAmount": "3000"
         },
+	{
+            "name": "Temple",
+            "code": "INSTITUTIONAL.TEMPLE",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Church",
+            "code": "INSTITUTIONAL.CHURCH",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Mosque",
+            "code": "INSTITUTIONAL.MOSQUE",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Gurudwara",
+            "code": "INSTITUTIONAL.GURUDWARA",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Monastery",
+            "code": "INSTITUTIONAL.MONASTERY",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
         {
-            "name": "Private School",
-            "code": "INSTITUTIONAL.PRIVATE_SCHOOL",
+            "name": "School",
+            "code": "INSTITUTIONAL.SCHOOL",
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "5600",
@@ -176,8 +240,8 @@
             "maxAmount": "6500"
         },
         {
-            "name": "Stadium",
-            "code": "INSTITUTIONAL.STADIUM",
+            "name": "Anganwadi",
+            "code": "INSTITUTIONAL.Anganwadi",
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
@@ -231,82 +295,115 @@
             "minAmount": "8900",
             "maxAmount": "9200"
         },
+ 	{
+            "name": "Army Camps",
+            "code": "INSTITUTIONAL.ARMY_CAMPS",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8900",
+            "maxAmount": "9200"
+        },
+	{
+            "name": "Government Hospitals",
+            "code": "INSTITUTIONAL.GOVT_HOSPITALS",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8900",
+            "maxAmount": "9200"
+        },
         {
-            "name": "Public Institutes",
-            "code": "PUBLIC_INSTITUTES",
+            "name": "Government Institutions",
+            "code": "GOVT_INSTITUTIONS",
             "active": true,
             "minAmount": "1000",
             "maxAmount": "3000"
         },
         {
-            "name": "Govt School/Anganwadi",
-            "code": "PUBLIC_INSTITUTES.GOVT_SCHOOL_ANGANWADI",
+            "name": "District Courts",
+            "code": "GOVT_INSTITUTIONS.DISTRICT_COURTS",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        
+        {
+            "name": "Sub-Divisional welfare office",
+            "code": "GOVT_INSTITUTIONS.SUB_DIVISIONAL_WELFARE_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Community/Public Toilets",
-            "code": "PUBLIC_INSTITUTES.COMMUNITY_PUBLIC_TOILETS",
+            "name": "Social welfare office",
+            "code": "GOVT_INSTITUTIONS.SOCIAL_WELFARE_OFFICE",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Temple",
-            "code": "PUBLIC_INSTITUTES.TEMPLE",
+            "name": "SSA office",
+            "code": "GOVT_INSTITUTIONS.SSA_OFFICE",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Church",
-            "code": "PUBLIC_INSTITUTES.CHURCH",
+            "name": "Circle office",
+            "code": "GOVT_INSTITUTIONS.CIRCLE_OFFICE",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Mosque",
-            "code": "PUBLIC_INSTITUTES.MOSQUE",
+            "name": "Town & Country Planning",
+            "code": "GOVT_INSTITUTIONS.TOWN_COUNTRY_PLANNING",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Gurudwara",
-            "code": "PUBLIC_INSTITUTES.GURUDWARA",
+            "name": "Pollution control board",
+            "code": "GOVT_INSTITUTIONS.POLLUTION_CONTROL_BOARD",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
         {
-            "name": "Monastery",
-            "code": "PUBLIC_INSTITUTES.MONASTERY",
+            "name": "NHM",
+            "code": "GOVT_INSTITUTIONS.NHM",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
-        {
-            "name": "RMC Office/Zonal Office",
-            "code": "PUBLIC_INSTITUTES.RMC_ZONAL_OFFICE",
+	{
+            "name": "Post office",
+            "code": "GOVT_INSTITUTIONS.POST_OFFICE",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         },
-        {
-            "name": "BSUP Colonies",
-            "code": "PUBLIC_INSTITUTES.BSUP_COLONIES",
+	{
+            "name": "Deputy Commissioner Office",
+            "code": "GOVT_INSTITUTIONS.DEPUTY_COMMISSIONER_OFFICE",
             "active": true,
-            "propertyType": "PUBLIC_INSTITUTES",
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "PWD office",
+            "code": "GOVT_INSTITUTIONS.PWD_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
             "minAmount": "5600",
             "maxAmount": "5900"
         }
