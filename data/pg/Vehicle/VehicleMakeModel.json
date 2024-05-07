@@ -8,6 +8,14 @@
             "active": true
         },
         {
+            "code": "TRACTOR.2000",
+            "name": "TRACTOR 2000L",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "2000",
+            "amount": "1000"
+        },
+        {
             "code": "TRACTOR.3000",
             "name": "TRACTOR 3000L",
             "active": true,
@@ -16,11 +24,11 @@
             "amount": "1000"
         },
         {
-            "code": "TRACTOR.4000",
-            "name": "TRACTOR 4000L",
+            "code": "TRACTOR.4500",
+            "name": "TRACTOR 4500L",
             "active": true,
             "make": "TRACTOR",
-            "capacity": "4000",
+            "capacity": "4500",
             "amount": "1000"
         }
     ]
