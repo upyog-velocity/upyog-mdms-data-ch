@@ -1,0 +1,18 @@
+{
+    "tenantId": "pg.GoalparaOne",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "pg.GoalparaOne",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pg.cityc",
+        "reminderInterval": 12345  
+      }
+    ]
+  }
