@@ -1,0 +1,9 @@
+{
+    "tenantId": "pg.Kumhari",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
