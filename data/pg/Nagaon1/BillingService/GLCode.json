@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg.Nagaon1",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.Nagaon1"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.Nagaon1"
+        }
+    ]
+}
