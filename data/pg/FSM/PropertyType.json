@@ -60,7 +60,6 @@
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
-            "minAmount": "8900",
             "maxAmount": "9200"
         },
         {
