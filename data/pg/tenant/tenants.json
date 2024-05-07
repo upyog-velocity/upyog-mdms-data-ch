@@ -6,7 +6,7 @@
       "name": "Kumhari-Nagar Palika",
       "description": "Kumhari-Nagar Palika",
       "pincode": [491226,490042],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Kumhari/logo.png",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
@@ -35,12 +35,12 @@
       "address": "Kumhari Municipal Corporation",
       "contactNumber": "001-2345876"
     },
-{
+    {
       "code": "pg.Raipur",
       "name": "Raipur",
       "description": "Raipur",
       "pincode": [492001,492002,492003,492006,492007,492009,492010,492011,492012,492013,492014,492015,493221,492099],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Raipur/logo.png",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
