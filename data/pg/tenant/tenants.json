@@ -70,7 +70,7 @@
       "contactNumber": "1100"
     },
 {
-      "code": "pg.Nagaon1",
+      "code": "pg.NagaonOne",
       "name": "Nagaon",
       "description": "Nagaon",
       "pincode": [782002,782001,782003],
@@ -90,7 +90,7 @@
         "localName": null,
         "districtCode": "Nagaon",
         "districtName": null,
-        "districtTenantCode": "pg.Nagaon1",
+        "districtTenantCode": "pg.NagaonOne",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
