@@ -43,6 +43,111 @@
         {
             "name": "Hotel",
             "code": "COMMERCIAL.HOTEL",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "1300",
+            "maxAmount": "1500"
+        },
+        {
+            "name": "Restaurant",
+            "code": "COMMERCIAL.RESTAURANT",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "1600",
+            "maxAmount": "1800"
+        },
+        {
+            "name": "Community hall",
+            "code": "COMMERCIAL.COMMUNITY_HALL",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "2200",
+            "maxAmount": "2500"
+        },
+        {
+            "name": "Shopping Mall",
+            "code": "COMMERCIAL.SHOPPING_MALL",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "2200",
+            "maxAmount": "2500"
+        },
+        {
+            "name": "Bank",
+            "code": "COMMERCIAL.BANK",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "2600",
+            "maxAmount": "2800"
+        },
+        {
+            "name": "Private office",
+            "code": "COMMERCIAL.PRIVATE_OFFICE",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "2900",
+            "maxAmount": "3200"
+        },
+        {
+            "name": "Market",
+            "code": "COMMERCIAL.MARKET",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "3300",
+            "maxAmount": "3500"
+        },        
+        {
+            "name": "Hostel",
+            "code": "COMMERCIAL.HOSTEL",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "3300",
+            "maxAmount": "3500"
+        },      
+        {
+            "name": "Warehouse",
+            "code": "COMMERCIAL.WAREHOUSE",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "4300",
+            "maxAmount": "4500"
+        },
+        {
+            "name": "Petrol Pumps",
+            "code": "COMMERCIAL.PETROL_PUMPS",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "4600",
+            "maxAmount": "4800"
+        },         
+        {
+            "name": "Resort",
+            "code": "COMMERCIAL.RESORT",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "4600",
+            "maxAmount": "4800"
+        },                
+        {
+            "name": "Theme park",
+            "code": "COMMERCIAL.THEME_PARK",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "4600",
+            "maxAmount": "4800"
+        },          
+        {
+            "name": "Sports Center",
+            "code": "COMMERCIAL.SPORTS_CENTER",
+            "active": true,
+            "propertyType": "COMMERCIAL",
+            "minAmount": "4600",
+            "maxAmount": "4800"
+        },          
+        {
+            "name": "Institutional",
+            "code": "INSTITUTIONAL",
+            "active": true,
             "minAmount": "1000",
             "maxAmount": "3000"
         },
@@ -52,6 +157,22 @@
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "College",
+            "code": "INSTITUTIONAL.COLLEGE",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "6000",
+            "maxAmount": "6200"
+        },
+        {
+            "name": "University",
+            "code": "INSTITUTIONAL.UNIVERSITY",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "6300",
             "maxAmount": "6500"
         },
         {
@@ -60,6 +181,54 @@
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
+            "maxAmount": "6800"
+        },       
+        {
+            "name": "Training Institutes",
+            "code": "INSTITUTIONAL.TRAINING_INSTITUTES",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "7300",
+            "maxAmount": "7500"
+        },
+        {
+            "name": "Hospital",
+            "code": "INSTITUTIONAL.HOSPITAL",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "7600",
+            "maxAmount": "7900"
+        },
+        {
+            "name": "Nursing Home",
+            "code": "INSTITUTIONAL.NURSING_HOME",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8000",
+            "maxAmount": "8200"
+        },
+        {
+            "name": "Community Health Center",
+            "code": "INSTITUTIONAL.COMMUNITY_HEALTH_CENTER",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8300",
+            "maxAmount": "8500"
+        },
+        {
+            "name": "Jail",
+            "code": "INSTITUTIONAL.JAIL",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8600",
+            "maxAmount": "8800"
+        },
+        {
+            "name": "Police Station",
+            "code": "INSTITUTIONAL.POLICE_STATION",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8900",
             "maxAmount": "9200"
         },
         {
