@@ -2,10 +2,10 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.Goalpara",
-      "name": "Goalpara",
-      "description": "Goalpara",
-      "pincode": [783101,783121],
+      "code": "pg.Kumhari",
+      "name": "Kumhari-Nagar Palika",
+      "description": "Kumhari-Nagar Palika",
+      "pincode": [491226,490042],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
@@ -13,16 +13,16 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "propertyIdEnabled": false,
-      "emailId": "goalpara@gmail.com",
+      "emailId": "cmokumhari@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Goalpara",
+        "name": "Kumhari-Nagar Palika",
         "localName": null,
-        "districtCode": "Goalpara",
+        "districtCode": "Kumhari",
         "districtName": null,
-        "districtTenantCode": "pg.",
+        "districtTenantCode": "pg.Kumhari",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -32,14 +32,14 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Goalpara Municipal Corporation",
+      "address": "Kumhari Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.Nagaon",
-      "name": "Nagaon",
-      "description": "Nagaon",
-      "pincode": [782002,782001,782003],
+      "code": "pg.Raipur",
+      "name": "Raipur",
+      "description": "Raipur",
+      "pincode": [492001,492002,492003,492006,492007,492009,492010,492011,492012,492013,492014,492015,493221,492099],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
@@ -47,16 +47,16 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "propertyIdEnabled": false,
-      "emailId": "nagaon@gmail.com",
+      "emailId": "sbmrmc@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Nagaon",
+        "name": "Raipur",
         "localName": null,
-        "districtCode": "Nagaon",
+        "districtCode": "Raipur",
         "districtName": null,
-        "districtTenantCode": "pg.Nagaon",
+        "districtTenantCode": "pg.Raipur",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -66,7 +66,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Nagaon Municipal Corporation",
+      "address": "Raipur Municipal Corporation",
       "contactNumber": "1100"
     }
   ]
