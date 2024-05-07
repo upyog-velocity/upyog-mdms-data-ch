@@ -56,6 +56,28 @@
             "PlantOperationalTimings": "10.00am-08.00pm",
             "PlantOperationalCapacityKLD": "50",
             "ULBS": "pg.Raipur"
+        },
+        {
+            "PlantCode": "CTA006",
+            "PlantName": "Nagaon FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Nagaon",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.NagaonOne"
+        },
+        {
+            "PlantCode": "CTA006",
+            "PlantName": "Goalpara FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Goalpara",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.Goalpara"
         }
     ]
 }
