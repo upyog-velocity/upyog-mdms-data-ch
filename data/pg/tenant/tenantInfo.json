@@ -31,6 +31,26 @@
       "workingPopulation": "35.01",
       "literacyRate": "69.46",
       "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "pg.NagaonOne",
+      "districtCode": "NagaonOne",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "pg.GoalparaOne",
+      "districtCode": "GoalparaOne",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
     }
   ]
 }
