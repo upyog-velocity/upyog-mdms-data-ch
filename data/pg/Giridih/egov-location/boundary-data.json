@@ -37,7 +37,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "WARD 1",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -50,7 +50,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 2",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -63,7 +63,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 3",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -76,7 +76,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 4",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -89,7 +89,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 5",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -102,7 +102,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 6",
-                "pincode": [782002],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -115,7 +115,7 @@
                 "latitude": null,
                 "label": "Locality",
                 "code": "Ward 7",
-                "pincode": [782001],
+                "pincode": [815301],
                 "area": "Area1",
                 "children": []
               },
@@ -127,7 +127,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782003],
+                "pincode": [815301],
                 "code": "Ward 8",
                 "area": "Area1",
                 "children": []
@@ -140,7 +140,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782003],
+                "pincode": [815301],
                 "code": "Ward 9",
                 "area": "Area1",
                 "children": []
@@ -153,7 +153,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 10",
                 "area": "Area1",
                 "children": []
@@ -166,7 +166,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 11",
                 "area": "Area1",
                 "children": []
@@ -179,7 +179,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 12",
                 "area": "Area1",
                 "children": []
@@ -192,7 +192,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 13",
                 "area": "Area1",
                 "children": []
@@ -205,7 +205,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 14",
                 "area": "Area1",
                 "children": []
@@ -218,7 +218,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 15",
                 "area": "Area1",
                 "children": []
@@ -231,7 +231,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 16",
                 "area": "Area1",
                 "children": []
@@ -244,7 +244,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782003],
+                "pincode": [815301],
                 "code": "Ward 17",
                 "area": "Area1",
                 "children": []
@@ -257,7 +257,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782003],
+                "pincode": [815301],
                 "code": "Ward 18",
                 "area": "Area1",
                 "children": []
@@ -270,7 +270,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782002],
+                "pincode": [815301],
                 "code": "Ward 19",
                 "area": "Area1",
                 "children": []
@@ -283,7 +283,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782002],
+                "pincode": [815301],
                 "code": "Ward 20",
                 "area": "Area1",
                 "children": []
@@ -296,7 +296,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782002],
+                "pincode": [815301],
                 "code": "Ward 21",
                 "area": "Area1",
                 "children": []
@@ -309,7 +309,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782002],
+                "pincode": [815301],
                 "code": "Ward 22",
                 "area": "Area1",
                 "children": []
@@ -322,7 +322,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782003],
+                "pincode": [815301],
                 "code": "Ward 23",
                 "area": "Area1",
                 "children": []
@@ -335,7 +335,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 24",
                 "area": "Area1",
                 "children": []
@@ -348,7 +348,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 25",
                 "area": "Area1",
                 "children": []
@@ -361,8 +361,138 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "pincode": [782001],
+                "pincode": [815301],
                 "code": "Ward 26",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 27",
+                "localname": "Ward 27",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 27",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 28",
+                "localname": "Ward 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 28",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 29",
+                "localname": "Ward 29",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 29",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 30",
+                "localname": "Ward 30",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 30",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 31",
+                "localname": "Ward 31",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 31",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 32",
+                "localname": "Ward 32",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 32",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 33",
+                "localname": "Ward 33",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 33",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 34",
+                "localname": "Ward 34",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 34",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 35",
+                "localname": "Ward 35",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 35",
+                "area": "Area1",
+                "children": []
+              },
+		{
+                "id": "47931756-40b5-458e-bd7b-01da5316f2db",
+                "boundaryNum": 1,
+                "name": "Ward 36",
+                "localname": "Ward 36",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "pincode": [815301],
+                "code": "Ward 36",
                 "area": "Area1",
                 "children": []
               }
