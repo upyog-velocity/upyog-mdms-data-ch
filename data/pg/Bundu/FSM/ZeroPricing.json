@@ -1,0 +1,9 @@
+{
+    "tenantId": "pg.Bundu",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg.Bundu",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "pg.Bundu"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "pg.Bundu"
+        }
+    ]
+}
