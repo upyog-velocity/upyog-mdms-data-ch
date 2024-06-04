@@ -2,73 +2,6 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.Bundu",
-      "name": "Bundu",
-      "description": "Bundu",
-      "pincode": [835204],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Bundu/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "propertyIdEnabled": false,
-      "emailId": "Bundu@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Bundu",
-        "localName": null,
-        "districtCode": "Bundu",
-        "districtName": null,
-        "districtTenantCode": "pg.",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1013",
-        "ddrName": "DDR A"
-      },
-      "address": "Bundu Municipal Corporation",
-      "contactNumber": "001-2345876"
-    },
-    {
-      "code": "pg.Giridih",
-      "name": "Giridih",
-      "description": "Giridih",
-      "pincode": [815301],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Bundu/logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "propertyIdEnabled": false,
-      "emailId": "Giridih@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Giridih",
-        "localName": null,
-        "districtCode": "Giridih",
-        "districtName": null,
-        "districtTenantCode": "pg.Giridih",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761829,
-        "latitude": 31.3260152,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "1013",
-        "ddrName": "DDR A"
-      },
-      "address": "Giridih Municipal Corporation",
-      "contactNumber": "1100"
-    },{
       "code": "pg.GoalparaOne",
       "name": "Goalpara",
       "description": "Goalpara",
@@ -101,7 +34,42 @@
       },
       "address": "Goalpara Municipal Corporation",
       "contactNumber": "001-2345876"
-    },{
+    },
+{
+      "code": "pg.NagaonOne",
+      "name": "Nagaon",
+      "description": "Nagaon",
+      "pincode": [782002,782001,782003],
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Nagaon1/logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "propertyIdEnabled": false,
+      "emailId": "nagaon@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Nagaon",
+        "localName": null,
+        "districtCode": "Nagaon",
+        "districtName": null,
+        "districtTenantCode": "pg.NagaonOne",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "Nagaon Municipal Corporation",
+      "contactNumber": "1100"
+},
+{
       "code": "pg.citya",
       "name": "City A",
       "description": "City A",
@@ -134,6 +102,6 @@
       },
       "address": "City A Municipal Corporation",
       "contactNumber": "001-2345876"
-    }    
+    }
   ]
 }
