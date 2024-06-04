@@ -34,6 +34,22 @@
             "maxAmount": "900"
         },
         {
+            "name": "Government Houses",
+            "code": "RESIDENTIAL.GOVT_HOUSES",
+            "active": true,
+            "propertyType": "RESIDENTIAL",
+            "minAmount": "700",
+            "maxAmount": "900"
+        },
+	 {
+            "name": "Houses for poor",
+            "code": "RESIDENTIAL.HOUSES_FOR_POOR",
+            "active": true,
+            "propertyType": "RESIDENTIAL",
+            "minAmount": "700",
+            "maxAmount": "900"
+        },
+        {
             "name": "Commercial",
             "code": "COMMERCIAL",
             "active": true,
@@ -225,7 +241,7 @@
         },
         {
             "name": "Anganwadi",
-            "code": "INSTITUTIONAL.Anganwadi",
+            "code": "INSTITUTIONAL.ANGANWADI",
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
@@ -278,6 +294,118 @@
             "propertyType": "INSTITUTIONAL",
             "minAmount": "8900",
             "maxAmount": "9200"
+        },
+        {
+            "name": "Army Camps",
+            "code": "INSTITUTIONAL.ARMY_CAMPS",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8900",
+            "maxAmount": "9200"
+        },
+	{
+            "name": "Government Hospitals",
+            "code": "INSTITUTIONAL.GOVT_HOSPITALS",
+            "active": true,
+            "propertyType": "INSTITUTIONAL",
+            "minAmount": "8900",
+            "maxAmount": "9200"
+        },
+        {
+            "name": "Government Institutions",
+            "code": "GOVT_INSTITUTIONS",
+            "active": true,
+            "minAmount": "1000",
+            "maxAmount": "3000"
+        },
+        {
+            "name": "District Courts",
+            "code": "GOVT_INSTITUTIONS.DISTRICT_COURTS",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+
+        {
+            "name": "Sub-Divisional welfare office",
+            "code": "GOVT_INSTITUTIONS.SUB_DIVISIONAL_WELFARE_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Social welfare office",
+            "code": "GOVT_INSTITUTIONS.SOCIAL_WELFARE_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "SSA office",
+            "code": "GOVT_INSTITUTIONS.SSA_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Circle office",
+            "code": "GOVT_INSTITUTIONS.CIRCLE_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Town & Country Planning",
+            "code": "GOVT_INSTITUTIONS.TOWN_COUNTRY_PLANNING",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Pollution Control Board",
+            "code": "GOVT_INSTITUTIONS.POLLUTION_CONTROL_BOARD",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "NHM",
+            "code": "GOVT_INSTITUTIONS.NHM",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Post office",
+            "code": "GOVT_INSTITUTIONS.POST_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "Deputy Commissioner Office",
+            "code": "GOVT_INSTITUTIONS.DEPUTY_COMMISSIONER_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+	{
+            "name": "PWD office",
+            "code": "GOVT_INSTITUTIONS.PWD_OFFICE",
+            "active": true,
+            "propertyType": "GOVT_INSTITUTIONS",
+            "minAmount": "5600",
+            "maxAmount": "5900"
         }
     ]
 }
