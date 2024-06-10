@@ -78,6 +78,28 @@
             "PlantOperationalTimings": "10.00am-08.00pm",
             "PlantOperationalCapacityKLD": "50",
             "ULBS": "pg.GoalparaOne"
-        }
+        },
+        {
+            "PlantCode": "CTA008",
+            "PlantName": "Bundu FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Bundu",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.Bundu"
+        },
+        {
+            "PlantCode": "CTA009",
+            "PlantName": "Giridih FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Giridih",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "pg.Giridih"
+        }        
     ]
 }
