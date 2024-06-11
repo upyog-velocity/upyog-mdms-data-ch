@@ -1,27 +1,28 @@
 {
     "tenantId": "pg",
-    "moduleName": "Vehicle",
-    "VehicleMakeModel": [
+    "moduleName": "FSM",
+    "VehicleType": [
         {
-            "code": "TRACTOR",
-            "name": "TRACTOR",
-            "active": true
+            "code": "MAHINDRA.BOLERO_PICKUP",
+            "name": "Bolero Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "5000 Ltrs",
+            "amount": "500"
         },
         {
-            "code": "TRACTOR.3000",
-            "name": "TRACTOR 3000L",
+            "code": "TATA.LPT709/34",
+            "name": "TATA LPT709/34",
             "active": true,
-            "make": "TRACTOR",
-            "capacity": "3000",
-            "amount": "1000"
+            "capacity": "3000 Ltrs",
+            "amount": "200"
         },
         {
-            "code": "TRACTOR.4500",
-            "name": "TRACTOR 4500L",
+            "code": "TATA.407",
+            "name": "TATA 407",
             "active": true,
-            "make": "TRACTOR",
-            "capacity": "3500",
-            "amount": "1000"
+            "capacity": "3500 Ltrs",
+            "amount": "100"
         }
     ]
 }
