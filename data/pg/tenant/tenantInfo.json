@@ -51,6 +51,26 @@
       "workingPopulation": "35.01",
       "literacyRate": "69.46",
       "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "pg.Bundu",
+      "districtCode": "Bundu",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "pg.Giridih",
+      "districtCode": "Giridih",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
     }
   ]
 }
