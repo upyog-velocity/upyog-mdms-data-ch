@@ -16,8 +16,8 @@
             "amount": "1000"
         },
         {
-            "code": "TRACTOR.4500",
-            "name": "TRACTOR 4500L",
+            "code": "TRACTOR.3500",
+            "name": "TRACTOR 3500L",
             "active": true,
             "make": "TRACTOR",
             "capacity": "3500",
