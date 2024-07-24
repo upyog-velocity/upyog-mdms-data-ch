@@ -46,7 +46,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "propertyIdEnabled": true,
+      "propertyIdEnabled": false,
       "emailId": "Giridih@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
