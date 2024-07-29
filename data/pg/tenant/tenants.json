@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pg.Kumhari",
-      "name": "Kumhari-Nagar Palika",
-      "description": "Kumhari-Nagar Palika",
+      "name": "Kumhari",
+      "description": "Kumhari",
       "pincode": [491226,490042],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.Goalpara/logo.png",
       "imageId": null,
@@ -18,7 +18,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Kumhari-Nagar Palika",
+        "name": "Kumhari",
         "localName": null,
         "districtCode": "Kumhari",
         "districtName": null,
