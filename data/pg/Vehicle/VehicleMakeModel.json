@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "Vehicle",
-    "VehicleMakeModel": [
+    "VehicleMakeModel": [ 
         {
             "code": "TRACTOR",
             "name": "TRACTOR",
@@ -16,11 +16,11 @@
             "amount": "1000"
         },
         {
-            "code": "TRACTOR.3500",
-            "name": "TRACTOR 3500L",
+            "code": "TRACTOR.4000",
+            "name": "TRACTOR 4000L",
             "active": true,
             "make": "TRACTOR",
-            "capacity": "3500",
+            "capacity": "4000",
             "amount": "1000"
         }
     ]
