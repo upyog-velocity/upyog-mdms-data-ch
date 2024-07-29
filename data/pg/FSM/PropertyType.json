@@ -40,14 +40,6 @@
             "minAmount": "1000",
             "maxAmount": "5000"
         },
-	{
-            "name": "Community/Public Toilets",
-            "code": "COMMERCIAL.COMMUNITY_PUBLIC_TOILETS",
-            "active": true,
-            "propertyType": "COMMERCIAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
         {
             "name": "Hotel",
             "code": "COMMERCIAL.HOTEL",
@@ -159,49 +151,9 @@
             "minAmount": "1000",
             "maxAmount": "3000"
         },
-	{
-            "name": "Temple",
-            "code": "INSTITUTIONAL.TEMPLE",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
-	{
-            "name": "Church",
-            "code": "INSTITUTIONAL.CHURCH",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
-	{
-            "name": "Mosque",
-            "code": "INSTITUTIONAL.MOSQUE",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
-	{
-            "name": "Gurudwara",
-            "code": "INSTITUTIONAL.GURUDWARA",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
-	{
-            "name": "Monastery",
-            "code": "INSTITUTIONAL.MONASTERY",
-            "active": true,
-            "propertyType": "INSTITUTIONAL",
-            "minAmount": "5600",
-            "maxAmount": "5900"
-        },
         {
-            "name": "School",
-            "code": "INSTITUTIONAL.SCHOOL",
+            "name": "Private School",
+            "code": "INSTITUTIONAL.PRIVATE_SCHOOL",
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "5600",
@@ -224,8 +176,8 @@
             "maxAmount": "6500"
         },
         {
-            "name": "Anganwadi",
-            "code": "INSTITUTIONAL.Anganwadi",
+            "name": "Stadium",
+            "code": "INSTITUTIONAL.STADIUM",
             "active": true,
             "propertyType": "INSTITUTIONAL",
             "minAmount": "6600",
@@ -278,6 +230,85 @@
             "propertyType": "INSTITUTIONAL",
             "minAmount": "8900",
             "maxAmount": "9200"
+        },
+        {
+            "name": "Public Institutes",
+            "code": "PUBLIC_INSTITUTES",
+            "active": true,
+            "minAmount": "1000",
+            "maxAmount": "3000"
+        },
+        {
+            "name": "Govt School/Anganwadi",
+            "code": "PUBLIC_INSTITUTES.GOVT_SCHOOL_ANGANWADI",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Community/Public Toilets",
+            "code": "PUBLIC_INSTITUTES.COMMUNITY_PUBLIC_TOILETS",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Temple",
+            "code": "PUBLIC_INSTITUTES.TEMPLE",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Church",
+            "code": "PUBLIC_INSTITUTES.CHURCH",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Mosque",
+            "code": "PUBLIC_INSTITUTES.MOSQUE",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Gurudwara",
+            "code": "PUBLIC_INSTITUTES.GURUDWARA",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "Monastery",
+            "code": "PUBLIC_INSTITUTES.MONASTERY",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "RMC Office/Zonal Office",
+            "code": "PUBLIC_INSTITUTES.RMC_ZONAL_OFFICE",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
+        },
+        {
+            "name": "BSUP Colonies",
+            "code": "PUBLIC_INSTITUTES.BSUP_COLONIES",
+            "active": true,
+            "propertyType": "PUBLIC_INSTITUTES",
+            "minAmount": "5600",
+            "maxAmount": "5900"
         }
     ]
 }
