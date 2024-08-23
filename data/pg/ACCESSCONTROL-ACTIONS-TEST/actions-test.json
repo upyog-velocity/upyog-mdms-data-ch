@@ -14994,6 +14994,21 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2533,
+      "name": "Dashboard FSM ULB",
+      "url": "url",
+      "displayName": "Desludging Service ULB Report",
+      "orderNumber": 28,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Desludging Service",
+      "navigationURL": "/digit-ui/employee/fsm/dashboard/fsm-ulb",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    }	   
    ]
 }
