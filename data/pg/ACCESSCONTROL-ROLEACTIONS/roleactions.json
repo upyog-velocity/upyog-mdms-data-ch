@@ -20798,6 +20798,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "FSM_DASHBOARD_VIEWER",
+      "actionid": 2533,
+      "actioncode": "",
+      "tenantId": "pg"
+    },	  
+    {
       "rolecode": "STADMIN",
       "actionid": 2182,
       "actioncode": "",
